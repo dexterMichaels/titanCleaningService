@@ -1,0 +1,18 @@
+# WordPress reference material (not part of static site)
+wp-content/
+__qs/
+wp-pages/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+*.swp
+*.swo
+*~
+
+# Node (if using local server)
+node_modules/
