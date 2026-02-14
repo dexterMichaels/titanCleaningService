@@ -28,6 +28,9 @@
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800&family=Source+Sans+3:wght@400;500;600&display=swap" rel="stylesheet">
 
   <!-- Styles -->
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/images/favicon-192.png">
+  <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
   <link rel="stylesheet" href="/css/styles.css">
 
   <!-- Schema: BreadcrumbList -->
@@ -162,12 +165,12 @@
 
               <div class="form-row">
                 <div class="form-group">
-                  <label for="first-name">First Name</label>
+                  <label for="first-name">First Name <span style="color: var(--red-500);">*</span></label>
                   <input type="text" id="first-name" name="first_name" required placeholder="Your first name" autocomplete="given-name">
                 </div>
                 <div class="form-group">
                   <label for="last-name">Last Name</label>
-                  <input type="text" id="last-name" name="last_name" required placeholder="Your last name" autocomplete="family-name">
+                  <input type="text" id="last-name" name="last_name" placeholder="Your last name" autocomplete="family-name">
                 </div>
               </div>
 
@@ -177,13 +180,13 @@
               </div>
 
               <div class="form-group">
-                <label for="phone">Phone Number (optional)</label>
-                <input type="tel" id="phone" name="phone" placeholder="(250) 000-0000" autocomplete="tel">
+                <label for="phone">Phone Number <span style="color: var(--red-500);">*</span></label>
+                <input type="tel" id="phone" name="phone" required placeholder="(250) 000-0000" autocomplete="tel">
               </div>
 
               <div class="form-group">
-                <label for="service">Service Needed</label>
-                <select id="service" name="service">
+                <label for="service">Service Needed <span style="color: var(--red-500);">*</span></label>
+                <select id="service" name="service" required>
                   <option value="" disabled selected>Select a service</option>
                   <option value="Carpet Cleaning">Carpet Cleaning</option>
                   <option value="Upholstery Cleaning">Upholstery Cleaning</option>
@@ -193,6 +196,27 @@
                   <option value="Floor Waxing">Floor Waxing</option>
                   <option value="Other">Other</option>
                 </select>
+              </div>
+
+              <div class="form-group">
+                <label for="service-area">Service Area <span style="color: var(--red-500);">*</span></label>
+                <select id="service-area" name="service_area" required>
+                  <option value="" disabled selected>Select your area</option>
+                  <option value="Victoria">Victoria</option>
+                  <option value="Saanich">Saanich</option>
+                  <option value="Langford">Langford</option>
+                  <option value="Sidney">Sidney</option>
+                  <option value="Mill Bay">Mill Bay</option>
+                  <option value="Duncan">Duncan</option>
+                  <option value="Ladysmith">Ladysmith</option>
+                  <option value="Nanaimo">Nanaimo</option>
+                  <option value="Other">Other</option>
+                </select>
+              </div>
+
+              <div class="form-group" id="other-area-group" style="display: none;">
+                <label for="other-area">Please specify your area <span style="color: var(--red-500);">*</span></label>
+                <input type="text" id="other-area" name="service_area_other" placeholder="Enter your location">
               </div>
 
               <div class="form-group">

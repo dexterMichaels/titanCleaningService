@@ -95,6 +95,24 @@
     });
   });
 
+  // --- Service Area "Other" Toggle ---
+  const serviceAreaSelect = document.getElementById('service-area');
+  const otherAreaGroup = document.getElementById('other-area-group');
+  const otherAreaInput = document.getElementById('other-area');
+
+  if (serviceAreaSelect && otherAreaGroup && otherAreaInput) {
+    serviceAreaSelect.addEventListener('change', function () {
+      if (this.value === 'Other') {
+        otherAreaGroup.style.display = '';
+        otherAreaInput.required = true;
+      } else {
+        otherAreaGroup.style.display = 'none';
+        otherAreaInput.required = false;
+        otherAreaInput.value = '';
+      }
+    });
+  }
+
   // --- Contact Form (Formspree) ---
   const contactForm = document.getElementById('contact-form');
   if (contactForm) {
