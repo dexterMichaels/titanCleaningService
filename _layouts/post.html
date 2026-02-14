@@ -1,0 +1,64 @@
+---
+layout: default
+---
+
+<!-- ========== POST HERO ========== -->
+<section class="post-hero">
+  {% if page.image %}
+  <div class="hero-bg" style="background-image: url('{{ page.image }}');" role="img" aria-label="{{ page.title }}"></div>
+  {% else %}
+  <div class="hero-bg" style="background-image: url('/images/hero/pristine-living-room.webp');" role="img" aria-label="{{ page.title }}"></div>
+  {% endif %}
+  <div class="container">
+    <div class="post-hero-content fade-in">
+      <nav class="breadcrumbs" aria-label="Breadcrumb">
+        <a href="/">Home</a>
+        <span>&rsaquo;</span>
+        <a href="/blog/">Blog</a>
+        <span>&rsaquo;</span>
+        <span>{{ page.title }}</span>
+      </nav>
+      <h1>{{ page.title }}</h1>
+      <div class="post-meta">
+        <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+        {% if page.author %}<span class="post-meta-sep">&bull;</span><span>{{ page.author }}</span>{% endif %}
+        {% if page.tags.size > 0 %}
+        <span class="post-meta-sep">&bull;</span>
+        <span class="post-tags-inline">
+          {% for tag in page.tags %}<span class="post-tag">{{ tag }}</span>{% endfor %}
+        </span>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ========== POST CONTENT ========== -->
+<section class="post-content-section">
+  <div class="container">
+    <article class="post-content">
+      {{ content }}
+    </article>
+
+    {% if page.tags.size > 0 %}
+    <div class="post-footer">
+      <div class="post-tags">
+        <strong>Tags:</strong>
+        {% for tag in page.tags %}<span class="post-tag">{{ tag }}</span>{% endfor %}
+      </div>
+    </div>
+    {% endif %}
+  </div>
+</section>
+
+<!-- ========== CTA BANNER ========== -->
+<section class="cta-banner">
+  <div class="container fade-in">
+    <h2 class="heading-lg">Need Professional Cleaning in Victoria?</h2>
+    <p>Get a fast, free quote for any residential or commercial cleaning service. We&rsquo;re here to help.</p>
+    <div class="btn-group">
+      <a href="/contact.html" class="btn btn-white btn-lg">Get a Free Quote</a>
+      <a href="tel:+12507105244" class="btn btn-outline-white btn-lg">&#9742; Call (250) 710-5244</a>
+    </div>
+  </div>
+</section>

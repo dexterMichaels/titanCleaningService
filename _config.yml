@@ -1,0 +1,42 @@
+# Jekyll configuration for Titan Cleaning Service blog
+title: Titan Cleaning Service
+description: "Professional carpet, upholstery, tile & pressure washing services in Victoria & Vancouver Island, BC."
+url: "https://titancleaningservice.ca"
+baseurl: ""
+
+# Blog post URLs
+permalink: /blog/:title.html
+
+# Plugins
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Feed settings
+feed:
+  path: /feed.xml
+
+# Exclude non-site files from Jekyll processing
+exclude:
+  - wp-content
+  - wp-pages
+  - __qs
+  - pages
+  - node_modules
+  - Gemfile
+  - Gemfile.lock
+  - CLAUDE.md
+  - DEPLOYMENT-PLAN.md
+  - README.md
+  - .github
+  - .vscode
+
+# Default front matter for posts
+defaults:
+  - scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: post
+      author: "Titan Cleaning Service"

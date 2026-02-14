@@ -23,3 +23,9 @@ DEPLOYMENT-PLAN.md
 
 # Node (if using local server)
 node_modules/
+
+# Jekyll
+_site/
+.jekyll-cache/
+.jekyll-metadata
+Gemfile.lock
