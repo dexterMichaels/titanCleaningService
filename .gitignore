@@ -10,6 +10,10 @@ desktop.ini
 
 # Claude Code local settings
 .claude/
+CLAUDE.md
+
+# Planning docs
+DEPLOYMENT-PLAN.md
 
 # Editor files
 .vscode/
