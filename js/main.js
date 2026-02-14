@@ -235,7 +235,7 @@
           '<p>New customers get <strong>$50 off</strong> any cleaning service. Mention this code when you call or include it in your quote request.</p>' +
           '<div class="coupon-code">TITAN50</div>' +
           '<a href="/contact.html" class="btn btn-primary btn-lg coupon-cta">Claim Your $50 Off</a>' +
-          '<p class="coupon-fine">Valid for new customers. One use per household. Cannot be combined with other offers.</p>' +
+          '<p class="coupon-fine">Valid for new customers. One use per household. Cannot be combined with other offers. *Minimum service fee of $450.</p>' +
         '</div>' +
       '</div>';
 
