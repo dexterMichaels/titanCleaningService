@@ -1,0 +1,283 @@
+# Titan Cleaning Service — Blog Content Queue
+# Status: pending → drafted → published
+# The generate-post script picks the first "pending" entry.
+
+# ── Week 1 (Feb 17-21) ──────────────────────────────────────────
+
+- slug: how-much-does-carpet-cleaning-cost-victoria-bc
+  title: "How Much Does Carpet Cleaning Cost in Victoria BC?"
+  target_keyword: "carpet cleaning cost victoria bc"
+  cluster: carpet
+  tags: [Carpet Cleaning, Pricing, Victoria BC]
+  brief: |
+    Cover average costs per room ($100-200) and per sq ft ($0.25-0.60) in Victoria BC.
+    Compare DIY rental ($40-80/day) vs professional results.
+    Factors that affect price: room size, stain severity, furniture moving, stairs, pet treatment.
+    Mention Titan's transparent pricing and link to /pricing.html.
+    CTA to /contact.html for a free quote. Phone: (250) 710-5244.
+  status: pending
+  publish_date:
+
+- slug: steam-cleaning-vs-dry-carpet-cleaning
+  title: "Steam Cleaning vs Dry Carpet Cleaning: Which Is Better?"
+  target_keyword: "steam cleaning vs dry cleaning carpet"
+  cluster: carpet
+  tags: [Carpet Cleaning, Tips]
+  brief: |
+    Explain hot water extraction (what most people call "steam cleaning") vs low-moisture/dry methods.
+    Pros and cons of each. When to use which method. Drying times comparison.
+    Titan uses commercial-grade hot water extraction — explain why this is the gold standard.
+    Address myths: "steam cleaning shrinks carpet" etc.
+    Link to /services/carpet-cleaning.html.
+  status: pending
+  publish_date:
+
+- slug: how-to-remove-pet-stains-and-odours-from-carpet
+  title: "How to Remove Pet Stains and Odours from Carpet"
+  target_keyword: "how to remove pet stains from carpet"
+  cluster: carpet
+  tags: [Carpet Cleaning, Pet Stains, Tips]
+  brief: |
+    Immediate steps when accidents happen (blot, don't rub).
+    Why enzymatic cleaners matter. DIY methods that work and ones that make it worse.
+    When DIY isn't enough — why urine soaks into the pad and needs professional extraction.
+    Mention Titan's experience with pet stain removal (reference the Sander Tucker review).
+    Serve Victoria pet owners — reference local context (lots of dogs on Vancouver Island).
+    Link to /services/carpet-cleaning.html and /contact.html.
+  status: pending
+  publish_date:
+
+# ── Week 2 (Feb 24-28) ──────────────────────────────────────────
+
+- slug: spring-cleaning-checklist-victoria-homeowners
+  title: "The Ultimate Spring Cleaning Checklist for Victoria Homeowners"
+  target_keyword: "spring cleaning checklist victoria bc"
+  cluster: seasonal
+  tags: [Spring Cleaning, Victoria BC, Tips]
+  brief: |
+    Room-by-room spring cleaning checklist tailored to Victoria/Vancouver Island.
+    Address Island-specific issues: winter dampness, mould prevention, moss on exteriors.
+    Include professional services to consider: carpet cleaning, pressure washing, tile/grout.
+    Link to multiple service pages and /areas-we-serve/victoria.html.
+    CTA: Book spring cleaning services before the rush. (250) 710-5244.
+  status: pending
+  publish_date:
+
+- slug: how-long-does-carpet-take-to-dry-after-cleaning
+  title: "How Long Does Carpet Take to Dry After Professional Cleaning?"
+  target_keyword: "how long carpet dry after cleaning"
+  cluster: carpet
+  tags: [Carpet Cleaning, Tips]
+  brief: |
+    Typical drying times: 6-12 hours for hot water extraction, 1-2 hours for low-moisture.
+    Factors: humidity (very relevant in Victoria!), ventilation, carpet type, pad thickness.
+    Tips to speed up drying: fans, open windows, AC, dehumidifier.
+    Victoria-specific: mention that Island humidity means longer dry times vs. dry climates.
+    How Titan's commercial equipment minimizes moisture left behind.
+  status: pending
+  publish_date:
+
+- slug: moss-algae-removal-guide-vancouver-island-driveways
+  title: "Moss and Algae Removal Guide for Vancouver Island Driveways"
+  target_keyword: "moss removal driveway victoria"
+  cluster: pressure-washing
+  tags: [Pressure Washing, Victoria BC, Seasonal]
+  brief: |
+    Why moss and algae thrive on Vancouver Island (wet, mild climate).
+    DIY removal methods: vinegar, baking soda, commercial moss killers.
+    Why pressure washing is the most effective method for driveways and patios.
+    Prevention tips: improving drainage, trimming overhanging trees, applying moss inhibitor.
+    When to call a professional — large areas, delicate surfaces, stubborn growth.
+    Link to /services/pressure-washing.html and /areas-we-serve/ pages.
+  status: pending
+  publish_date:
+
+# ── Weeks 3-4 ────────────────────────────────────────────────────
+
+- slug: is-professional-carpet-cleaning-worth-it
+  title: "Is Professional Carpet Cleaning Worth It? What You're Really Paying For"
+  target_keyword: "is professional carpet cleaning worth the money"
+  cluster: carpet
+  tags: [Carpet Cleaning, Tips]
+  brief: |
+    Compare results of DIY vs professional. What professional equipment does that rentals can't.
+    Health benefits: allergen removal, dust mites, bacteria.
+    Carpet longevity: professional cleaning extends carpet life by years.
+    Cost comparison: replacing carpet ($3000-8000) vs cleaning ($200-400).
+    Link to pricing page and /services/carpet-cleaning.html.
+  status: pending
+  publish_date:
+
+- slug: how-to-clean-fabric-sofa-without-ruining-it
+  title: "How to Clean a Fabric Sofa Without Ruining It"
+  target_keyword: "how to clean fabric sofa"
+  cluster: upholstery
+  tags: [Upholstery Cleaning, Tips]
+  brief: |
+    Check the cleaning code tag (W, S, WS, X) and what each means.
+    Safe DIY spot cleaning methods by fabric type.
+    Common mistakes that ruin upholstery: too much water, wrong cleaner, rubbing stains.
+    When professional cleaning is the safer choice (silk, velvet, delicate fabrics).
+    Link to /services/upholstery-cleaning.html.
+  status: pending
+  publish_date:
+
+- slug: why-victoria-homes-need-frequent-carpet-cleaning
+  title: "Why Victoria Homes Need More Frequent Carpet Cleaning Than You Think"
+  target_keyword: "carpet cleaning victoria bc"
+  cluster: local
+  tags: [Carpet Cleaning, Victoria BC]
+  brief: |
+    Victoria's unique climate challenges: rain 6+ months, high humidity, mild temps promote mould.
+    Mud season — tracking in dirt from gardens and trails.
+    Older homes in James Bay, Fairfield, Fernwood — original hardwood + carpeted rooms trap moisture.
+    Newer builds in Langford and Colwood — off-gassing and construction dust in carpets.
+    Recommended cleaning frequency for Victoria homes vs. national average.
+    Link to area pages and /services/carpet-cleaning.html.
+  status: pending
+  publish_date:
+
+- slug: best-carpet-cleaning-method-for-allergies
+  title: "The Best Carpet Cleaning Method for Allergies and Asthma"
+  target_keyword: "best carpet cleaning method for allergies"
+  cluster: carpet
+  tags: [Carpet Cleaning, Health, Tips]
+  brief: |
+    How carpets trap allergens: dust mites, pollen, pet dander, mould spores.
+    Why vacuuming alone isn't enough (HEPA vacuum helps but doesn't deep clean).
+    Hot water extraction is recommended by allergists — explain why.
+    Eco-friendly, low-residue products matter for sensitive households.
+    Titan uses eco-friendly products — mention this as a differentiator.
+    Link to /services/carpet-cleaning.html and /contact.html.
+  status: pending
+  publish_date:
+
+- slug: getting-your-deck-ready-for-spring-pressure-washing
+  title: "Getting Your Deck Ready for Spring: Pressure Washing Tips for Vancouver Island"
+  target_keyword: "pressure washing deck victoria"
+  cluster: pressure-washing
+  tags: [Pressure Washing, Seasonal, Tips]
+  brief: |
+    When to pressure wash your deck (after the last hard frost, before staining/sealing).
+    PSI guidelines by material: cedar (800-1200), composite (1200-1500), concrete (2500-3000).
+    How to avoid damage: right nozzle, right distance, go with the grain.
+    Vancouver Island context: winter moss and algae buildup, wood rot risks.
+    When to hire a pro (multi-level decks, soft wood, elderly homeowners).
+    Link to /services/pressure-washing.html.
+  status: pending
+  publish_date:
+
+- slug: how-to-clean-grout-that-has-turned-black
+  title: "How to Clean Grout That Has Turned Black"
+  target_keyword: "how to clean grout that has turned black"
+  cluster: tile-grout
+  tags: [Tile & Grout, Tips]
+  brief: |
+    Why grout turns black: mould, mildew, ground-in dirt, improper sealing.
+    DIY methods ranked: baking soda paste, hydrogen peroxide, oxygen bleach, steam.
+    Tools: old toothbrush, grout brush, steam cleaner.
+    When it's beyond DIY: grout that's been black for years, large areas, shower floors.
+    Professional tile and grout cleaning vs. regrout — cost comparison.
+    Link to /services/tile-grout-cleaning.html.
+  status: pending
+  publish_date:
+
+# ── Weeks 5-8 (auto-planned, replenished monthly) ────────────────
+
+- slug: how-often-should-you-clean-your-couch
+  title: "How Often Should You Clean Your Couch? A Practical Guide"
+  target_keyword: "how often should you clean your couch"
+  cluster: upholstery
+  tags: [Upholstery Cleaning, Tips]
+  brief: |
+    General rule: professionally every 12-18 months. With pets or kids: every 6-12 months.
+    Signs it's time: visible stains, odour, allergies flaring up, fabric looks dull.
+    Between cleanings: vacuum weekly, rotate cushions, use throws in high-use areas.
+    Link to /services/upholstery-cleaning.html.
+  status: pending
+  publish_date:
+
+- slug: signs-your-mattress-needs-professional-cleaning
+  title: "Signs Your Mattress Needs Professional Cleaning"
+  target_keyword: "signs mattress needs cleaning"
+  cluster: mattress
+  tags: [Mattress Cleaning, Health, Tips]
+  brief: |
+    Signs: yellow stains, odour, waking up congested, visible dust, it's been 1+ years.
+    What lives in your mattress: dust mites (millions), dead skin cells, sweat, bacteria.
+    DIY maintenance vs professional deep cleaning.
+    Mattress protectors help but aren't enough long-term.
+    Link to /services/mattress-cleaning.html.
+  status: pending
+  publish_date:
+
+- slug: common-carpet-problems-older-victoria-homes
+  title: "Common Carpet Problems in Older Victoria Homes (And How to Fix Them)"
+  target_keyword: "carpet cleaning older homes victoria"
+  cluster: local
+  tags: [Carpet Cleaning, Victoria BC]
+  brief: |
+    Victoria has many homes built 1920s-1970s with original or aging carpets.
+    Common issues: deep-set stains, musty smell from moisture, matted high-traffic paths.
+    Neighbourhoods: James Bay, Fairfield, Fernwood, Rockland character homes.
+    When to clean vs. when to replace. How professional cleaning can revive old carpet.
+    Link to /services/carpet-cleaning.html and /areas-we-serve/victoria.html.
+  status: pending
+  publish_date:
+
+- slug: commercial-carpet-cleaning-victoria-businesses
+  title: "Commercial Carpet Cleaning: What Victoria Businesses Need to Know"
+  target_keyword: "commercial carpet cleaning victoria"
+  cluster: carpet
+  tags: [Carpet Cleaning, Commercial, Victoria BC]
+  brief: |
+    Why commercial spaces need more frequent cleaning (daily foot traffic, professional image).
+    Industries: offices, retail, restaurants, hotels, strata buildings.
+    Scheduling: after-hours and weekend service available.
+    Cost considerations for businesses. Maintenance contracts.
+    Link to /services/carpet-cleaning.html and /contact.html.
+  status: pending
+  publish_date:
+
+- slug: how-to-get-rid-of-dust-mites-in-mattress
+  title: "How to Get Rid of Dust Mites in Your Mattress"
+  target_keyword: "how to get rid of dust mites mattress"
+  cluster: mattress
+  tags: [Mattress Cleaning, Health, Tips]
+  brief: |
+    What dust mites are and why they love mattresses (warmth, moisture, dead skin).
+    Health effects: allergies, asthma, eczema flare-ups.
+    DIY control: wash bedding weekly at 60C, use allergen covers, reduce humidity.
+    Professional mattress cleaning: the only way to deep-clean the interior.
+    Link to /services/mattress-cleaning.html.
+  status: pending
+  publish_date:
+
+- slug: dampness-mould-victoria-homes-carpet-cleaning
+  title: "Dampness and Mould in Victoria Homes: How Clean Carpets Help"
+  target_keyword: "mould prevention victoria bc homes"
+  cluster: local
+  tags: [Carpet Cleaning, Health, Victoria BC]
+  brief: |
+    Victoria's wet climate creates perfect conditions for mould in homes.
+    How carpets harbour moisture and mould spores — especially in basements.
+    Warning signs: musty smell, dark spots at carpet edges, allergies worsening in winter.
+    Professional cleaning removes mould spores; prevention tips for between cleanings.
+    When to call a mould remediation specialist vs. carpet cleaner.
+    Link to /services/carpet-cleaning.html and area pages.
+  status: pending
+  publish_date:
+
+- slug: diy-vs-professional-grout-cleaning
+  title: "DIY Grout Cleaning vs Professional: When to Call In Help"
+  target_keyword: "professional grout cleaning vs diy"
+  cluster: tile-grout
+  tags: [Tile & Grout, Tips]
+  brief: |
+    What DIY can handle: light surface stains, recent discolouration.
+    What needs a pro: deep mould, years of buildup, grout that looks permanently dark.
+    Professional process: high-pressure steam + commercial cleaners + resealing.
+    Cost of professional grout cleaning vs regrout vs full retile.
+    Link to /services/tile-grout-cleaning.html.
+  status: pending
+  publish_date:

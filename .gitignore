@@ -14,6 +14,10 @@ CLAUDE.md
 
 # Planning docs
 DEPLOYMENT-PLAN.md
+BLOG-CONTENT-PLAN.md
+
+# Project knowledge base (agent context, not site content)
+Knowledge/
 
 # Editor files
 .vscode/

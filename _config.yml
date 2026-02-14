@@ -31,6 +31,8 @@ exclude:
   - README.md
   - .github
   - .vscode
+  - _scripts
+  - BLOG-CONTENT-PLAN.md
 
 # Default front matter for posts
 defaults:
