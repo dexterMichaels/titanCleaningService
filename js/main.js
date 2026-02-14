@@ -201,11 +201,7 @@
 
   // --- $50 Off Coupon Popup ---
   (function initCouponPopup() {
-    var STORAGE_KEY = 'titan_coupon_dismissed';
     var DELAY_MS = 5000;
-
-    // Don't show if already dismissed this session
-    if (sessionStorage.getItem(STORAGE_KEY)) return;
 
     // Build popup HTML
     var overlay = document.createElement('div');
@@ -229,7 +225,6 @@
 
     function closeCoupon() {
       overlay.classList.remove('active');
-      sessionStorage.setItem(STORAGE_KEY, '1');
     }
 
     // Close button
@@ -247,9 +242,7 @@
 
     // Show after delay
     setTimeout(function () {
-      if (!sessionStorage.getItem(STORAGE_KEY)) {
-        overlay.classList.add('active');
-      }
+      overlay.classList.add('active');
     }, DELAY_MS);
   })();
 
