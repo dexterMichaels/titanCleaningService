@@ -1,5 +1,3 @@
-
-
 ---
 title: "How Much Does Carpet Cleaning Cost in Victoria BC?"
 description: "Find out what carpet cleaning costs in Victoria BC. We break down pricing per room and per sq ft, compare DIY vs professional, and what affects your quote."
