@@ -41,8 +41,8 @@
     Link to /services/carpet-cleaning.html.
 
     '
-  status: pending
-  publish_date: null
+  status: drafted
+  publish_date: '2026-02-23'
 - slug: how-to-remove-pet-stains-and-odours-from-carpet
   title: How to Remove Pet Stains and Odours from Carpet
   target_keyword: how to remove pet stains from carpet
