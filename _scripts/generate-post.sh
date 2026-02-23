@@ -80,6 +80,8 @@ git checkout -b "$BRANCH"
 cat <<PROMPT_EOF | claude -p --output-format text --tools "" > "$POST_FILE"
 You are writing a blog post for Titan Cleaning Service (titancleaningservice.ca), a professional carpet and cleaning company in Victoria, BC, Vancouver Island. Owner: Joanne Michaels. Phone: (250) 710-5244. Email: info@titancleaningservice.ca.
 
+IMPORTANT: Titan uses LOW MOISTURE carpet cleaning methods — NOT hot water extraction (steam cleaning). Their approach uses minimal water, eco-friendly solutions, and delivers fast drying times (typically 1-2 hours). This is a key differentiator. When discussing cleaning methods, always position Titan as a low moisture cleaning company. Never claim Titan uses hot water extraction or steam cleaning.
+
 Write a complete blog post in Jekyll markdown format. Output ONLY the markdown file content (front matter + body), nothing else.
 
 Start with this EXACT front matter:
