@@ -1,5 +1,5 @@
 ---
-title: "Steam Cleaning vs Dry Carpet Cleaning: Which Is Better?"
+title: "Steam Cleaning vs Low Moisture Carpet Cleaning: Which Is Better?"
 description: "Steam cleaning vs low moisture carpet cleaning — which method is best? Learn the pros, cons, and drying times for your Victoria home."
 date: 2026-02-23
 author: "Titan Cleaning Service"
