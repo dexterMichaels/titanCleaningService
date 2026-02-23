@@ -11,6 +11,9 @@
 #   4. Append to _data/content-queue.yml
 #   5. Create PR for owner review
 
+# Ensure ~/.local/bin is in PATH (needed for non-interactive SSH sessions like n8n)
+export PATH="/home/d-exe/.local/bin:$PATH"
+
 set -euo pipefail
 
 REPO_DIR="/home/d-exe/TitanCleaningService"

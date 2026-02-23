@@ -16,6 +16,9 @@
 #   - git, python3, pyyaml, claude CLI, gh CLI
 #   - Repo cloned at REPO_DIR with push access
 
+# Ensure ~/.local/bin is in PATH (needed for non-interactive SSH sessions like n8n)
+export PATH="/home/d-exe/.local/bin:$PATH"
+
 set -euo pipefail
 
 REPO_DIR="/home/d-exe/TitanCleaningService"
