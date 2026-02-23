@@ -77,17 +77,18 @@ git checkout -b "$BRANCH"
 
 # ── 3. Generate post with Claude CLI ──────────────────────────────
 
-claude -p --output-format text "You are writing a blog post for Titan Cleaning Service (titancleaningservice.ca), a professional carpet and cleaning company in Victoria, BC, Vancouver Island. Owner: Joanne Michaels. Phone: (250) 710-5244. Email: info@titancleaningservice.ca.
+cat <<PROMPT_EOF | claude -p --output-format text --tools "" > "$POST_FILE"
+You are writing a blog post for Titan Cleaning Service (titancleaningservice.ca), a professional carpet and cleaning company in Victoria, BC, Vancouver Island. Owner: Joanne Michaels. Phone: (250) 710-5244. Email: info@titancleaningservice.ca.
 
 Write a complete blog post in Jekyll markdown format. Output ONLY the markdown file content (front matter + body), nothing else.
 
 Start with this EXACT front matter:
 
 ---
-title: \"${TITLE}\"
-description: \"[Write a compelling 150-160 character meta description targeting: ${KEYWORD}]\"
+title: "${TITLE}"
+description: "[Write a compelling 150-160 character meta description targeting: ${KEYWORD}]"
 date: ${TODAY}
-author: \"Titan Cleaning Service\"
+author: "Titan Cleaning Service"
 image: /images/hero/pristine-living-room.webp
 tags:
 ${TAGS_YAML}
@@ -110,7 +111,8 @@ Writing requirements:
 - End with a clear CTA section: link to /contact.html for free quote + phone (250) 710-5244
 - Write for real homeowners, not search engines. Be helpful, specific, and practical.
 - Reference Victoria/Vancouver Island climate and local context where relevant
-- Do NOT wrap the output in markdown code fences — output raw markdown only" > "$POST_FILE"
+- Do NOT wrap the output in markdown code fences — output raw markdown only
+PROMPT_EOF
 
 # Verify the file was created and has content
 if [ ! -s "$POST_FILE" ]; then
