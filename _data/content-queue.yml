@@ -60,8 +60,8 @@
     Link to /services/carpet-cleaning.html and /contact.html.
 
     '
-  status: pending
-  publish_date: null
+  status: drafted
+  publish_date: '2026-02-27'
 - slug: spring-cleaning-checklist-victoria-homeowners
   title: The Ultimate Spring Cleaning Checklist for Victoria Homeowners
   target_keyword: spring cleaning checklist victoria bc
