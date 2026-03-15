@@ -35,27 +35,32 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800&family=Source+Sans+3:wght@400;500;600&display=swap" rel="stylesheet">
 
+  <!-- Preload hero image (LCP element) -->
+  <link rel="preload" as="image" href="/images/hero/pristine-living-room.webp" fetchpriority="high">
+
   <!-- Styles -->
   <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32.png">
   <link rel="icon" type="image/png" sizes="192x192" href="/images/favicon-192.png">
   <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
   <link rel="stylesheet" href="/css/styles.css">
 
-  <!-- Schema: LocalBusiness -->
+  <!-- Schema: CleaningService -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "LocalBusiness",
+    "@type": "CleaningService",
     "@id": "https://titancleaningservice.ca/#business",
     "name": "Titan Cleaning Service",
     "image": "https://titancleaningservice.ca/images/logo@2x.png",
     "url": "https://titancleaningservice.ca",
-    "telephone": "(250) 710-5244",
+    "telephone": "+1-250-710-5244",
     "email": "info@titancleaningservice.ca",
+    "priceRange": "$$",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": "Victoria",
       "addressRegion": "BC",
+      "postalCode": "V8W",
       "addressCountry": "CA"
     },
     "geo": {
@@ -63,6 +68,9 @@
       "latitude": 48.4284,
       "longitude": -123.3656
     },
+    "sameAs": [
+      "https://www.google.com/maps/place/Titan+Cleaning+Service/@48.4284,-123.3656,15z"
+    ],
     "openingHoursSpecification": [
       {
         "@type": "OpeningHoursSpecification",
@@ -91,7 +99,8 @@
       "@type": "AggregateRating",
       "ratingValue": "5.0",
       "reviewCount": "109",
-      "bestRating": "5"
+      "bestRating": "5",
+      "worstRating": "1"
     },
     "hasOfferCatalog": {
       "@type": "OfferCatalog",
@@ -104,6 +113,19 @@
         {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Pressure Washing"}},
         {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Floor Waxing & Stripping"}}
       ]
+    }
+  }
+  </script>
+
+  <!-- Schema: WebSite -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Titan Cleaning Service",
+    "url": "https://titancleaningservice.ca/",
+    "publisher": {
+      "@id": "https://titancleaningservice.ca/#business"
     }
   }
   </script>
