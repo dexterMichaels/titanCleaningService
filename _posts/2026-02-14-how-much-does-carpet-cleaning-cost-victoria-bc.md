@@ -73,14 +73,14 @@ Here on Vancouver Island, our damp winters mean more moisture tracked indoors, a
 
 ## How Titan Cleaning Service Handles Pricing
 
-We know that unclear pricing is frustrating. That's why we keep things transparent — you can check out our [pricing page](/pricing.html) to get a clear picture of what our services cost before you ever pick up the phone.
+We know that unclear pricing is frustrating. That's why we keep things transparent — you can check out our [pricing page](/pricing/) to get a clear picture of what our services cost before you ever pick up the phone.
 
-Our [carpet cleaning service](/services/carpet-cleaning.html) uses professional-grade hot water extraction equipment that removes deep-seated dirt, allergens, and stains. We serve homeowners across [Victoria](/areas-we-serve/victoria.html), [Langford](/areas-we-serve/langford.html), and the surrounding [Greater Victoria area](/areas-we-serve/) — so wherever you are on the South Island, we can likely help.
+Our [carpet cleaning service](/services/carpet-cleaning/) uses professional-grade hot water extraction equipment that removes deep-seated dirt, allergens, and stains. We serve homeowners across [Victoria](/areas-we-serve/victoria/), [Langford](/areas-we-serve/langford/), and the surrounding [Greater Victoria area](/areas-we-serve/) — so wherever you are on the South Island, we can likely help.
 
-And if your carpets aren't the only things that need attention, we also offer [upholstery cleaning](/services/upholstery-cleaning.html) and [mattress cleaning](/services/mattress-cleaning.html) — easy to add on while we're already at your home.
+And if your carpets aren't the only things that need attention, we also offer [upholstery cleaning](/services/upholstery-cleaning/) and [mattress cleaning](/services/mattress-cleaning/) — easy to add on while we're already at your home.
 
 ## Get a Free, No-Obligation Quote
 
 Wondering about the carpet cleaning cost in Victoria BC for your specific home? The easiest way to find out is to reach out. Every home is different, and we're happy to give you an honest quote based on your actual needs — no pressure, no surprises.
 
-**[Request a free quote here](/contact.html)** or give Joanne a call at **(250) 710-5244**. We'll walk you through what to expect, answer your questions, and get your carpets looking their best.
+**[Request a free quote here](/contact/)** or give Joanne a call at **(250) 710-5244**. We'll walk you through what to expect, answer your questions, and get your carpets looking their best.

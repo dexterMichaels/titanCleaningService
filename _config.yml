@@ -5,7 +5,7 @@ url: "https://titancleaningservice.ca"
 baseurl: ""
 
 # Blog post URLs
-permalink: /blog/:title.html
+permalink: /blog/:title/
 
 # Plugins
 plugins:

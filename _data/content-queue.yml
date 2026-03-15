@@ -14,9 +14,9 @@
     Factors that affect price: room size, stain severity, furniture moving, stairs,
     pet treatment.
 
-    Mention Titan''s transparent pricing and link to /pricing.html.
+    Mention Titan''s transparent pricing and link to /pricing/.
 
-    CTA to /contact.html for a free quote. Phone: (250) 710-5244.
+    CTA to /contact/ for a free quote. Phone: (250) 710-5244.
 
     '
   status: drafted
@@ -34,7 +34,7 @@
     method and its advantages especially for the damp Victoria/Vancouver Island climate
     (faster drying = less mould risk, eco-friendly, gentle on fibres). Address myths:
     steam cleaning is always better, dry cleaning is only surface-level, etc. Link
-    to /services/carpet-cleaning.html.'
+    to /services/carpet-cleaning/.'
   status: drafted
   publish_date: '2026-02-23'
 - slug: how-to-remove-pet-stains-and-odours-from-carpet
@@ -57,7 +57,7 @@
     Serve Victoria pet owners — reference local context (lots of dogs on Vancouver
     Island).
 
-    Link to /services/carpet-cleaning.html and /contact.html.
+    Link to /services/carpet-cleaning/ and /contact/.
 
     '
   status: pending
@@ -77,7 +77,7 @@
     Include professional services to consider: carpet cleaning, pressure washing,
     tile/grout.
 
-    Link to multiple service pages and /areas-we-serve/victoria.html.
+    Link to multiple service pages and /areas-we-serve/victoria/.
 
     CTA: Book spring cleaning services before the rush. (250) 710-5244.
 
@@ -126,7 +126,7 @@
 
     When to call a professional — large areas, delicate surfaces, stubborn growth.
 
-    Link to /services/pressure-washing.html and /areas-we-serve/ pages.
+    Link to /services/pressure-washing/ and /areas-we-serve/ pages.
 
     '
   status: pending
@@ -147,7 +147,7 @@
 
     Cost comparison: replacing carpet ($3000-8000) vs cleaning ($200-400).
 
-    Link to pricing page and /services/carpet-cleaning.html.
+    Link to pricing page and /services/carpet-cleaning/.
 
     '
   status: pending
@@ -167,7 +167,7 @@
 
     When professional cleaning is the safer choice (silk, velvet, delicate fabrics).
 
-    Link to /services/upholstery-cleaning.html.
+    Link to /services/upholstery-cleaning/.
 
     '
   status: pending
@@ -191,7 +191,7 @@
 
     Recommended cleaning frequency for Victoria homes vs. national average.
 
-    Link to area pages and /services/carpet-cleaning.html.
+    Link to area pages and /services/carpet-cleaning/.
 
     '
   status: pending
@@ -214,7 +214,7 @@
 
     Titan uses eco-friendly products — mention this as a differentiator.
 
-    Link to /services/carpet-cleaning.html and /contact.html.
+    Link to /services/carpet-cleaning/ and /contact/.
 
     '
   status: pending
@@ -239,7 +239,7 @@
 
     When to hire a pro (multi-level decks, soft wood, elderly homeowners).
 
-    Link to /services/pressure-washing.html.
+    Link to /services/pressure-washing/.
 
     '
   status: pending
@@ -262,7 +262,7 @@
 
     Professional tile and grout cleaning vs. regrout — cost comparison.
 
-    Link to /services/tile-grout-cleaning.html.
+    Link to /services/tile-grout-cleaning/.
 
     '
   status: pending
@@ -281,7 +281,7 @@
 
     Between cleanings: vacuum weekly, rotate cushions, use throws in high-use areas.
 
-    Link to /services/upholstery-cleaning.html.
+    Link to /services/upholstery-cleaning/.
 
     '
   status: pending
@@ -303,7 +303,7 @@
 
     Mattress protectors help but aren''t enough long-term.
 
-    Link to /services/mattress-cleaning.html.
+    Link to /services/mattress-cleaning/.
 
     '
   status: pending
@@ -324,7 +324,7 @@
 
     When to clean vs. when to replace. How professional cleaning can revive old carpet.
 
-    Link to /services/carpet-cleaning.html and /areas-we-serve/victoria.html.
+    Link to /services/carpet-cleaning/ and /areas-we-serve/victoria/.
 
     '
   status: pending
@@ -346,7 +346,7 @@
 
     Cost considerations for businesses. Maintenance contracts.
 
-    Link to /services/carpet-cleaning.html and /contact.html.
+    Link to /services/carpet-cleaning/ and /contact/.
 
     '
   status: pending
@@ -368,7 +368,7 @@
 
     Professional mattress cleaning: the only way to deep-clean the interior.
 
-    Link to /services/mattress-cleaning.html.
+    Link to /services/mattress-cleaning/.
 
     '
   status: pending
@@ -392,7 +392,7 @@
 
     When to call a mould remediation specialist vs. carpet cleaner.
 
-    Link to /services/carpet-cleaning.html and area pages.
+    Link to /services/carpet-cleaning/ and area pages.
 
     '
   status: pending
@@ -412,7 +412,7 @@
 
     Cost of professional grout cleaning vs regrout vs full retile.
 
-    Link to /services/tile-grout-cleaning.html.
+    Link to /services/tile-grout-cleaning/.
 
     '
   status: pending

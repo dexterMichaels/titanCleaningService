@@ -73,4 +73,4 @@ To keep your carpets in great shape between professional cleanings:
 
 Whether it's been a few months or a few years, our team at Titan Cleaning Service is ready to restore your carpets to like-new condition. We serve Victoria, Langford, Sidney, Saanich, Mill Bay, Duncan, and Nanaimo.
 
-[Get a free quote](/contact.html) or call us at **(250) 710-5244** to book your appointment today.
+[Get a free quote](/contact/) or call us at **(250) 710-5244** to book your appointment today.

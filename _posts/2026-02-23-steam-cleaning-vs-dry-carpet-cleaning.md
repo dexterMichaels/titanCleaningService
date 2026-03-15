@@ -32,7 +32,7 @@ It's called "steam cleaning" because of the visible vapour, but there's no actua
 - **Can over-wet carpet backing** — leading to delamination, shrinkage, or odours
 - **Inconvenience** — you're walking on damp carpet (or avoiding rooms entirely) for a full day
 
-That last point matters more than people think. In [Victoria](/areas-we-serve/victoria.html) and across Vancouver Island, our mild but humid climate means indoor moisture doesn't evaporate quickly. A carpet soaked with hot water extraction can become a breeding ground for mould before it ever dries.
+That last point matters more than people think. In [Victoria](/areas-we-serve/victoria/) and across Vancouver Island, our mild but humid climate means indoor moisture doesn't evaporate quickly. A carpet soaked with hot water extraction can become a breeding ground for mould before it ever dries.
 
 ## What Is Low Moisture Carpet Cleaning?
 
@@ -71,7 +71,7 @@ For most residential carpets that receive regular cleaning, low moisture methods
 - You clean your carpets regularly and want to maintain their condition
 - You're concerned about mould, mildew, or indoor air quality
 
-For the vast majority of homes in [Victoria, Langford](/areas-we-serve/langford.html), and the surrounding areas, low moisture cleaning is the smarter choice for routine maintenance.
+For the vast majority of homes in [Victoria, Langford](/areas-we-serve/langford/), and the surrounding areas, low moisture cleaning is the smarter choice for routine maintenance.
 
 ## Why Titan Cleaning Service Uses Low Moisture Methods
 
@@ -87,7 +87,7 @@ Here's why:
 
 **It's environmentally responsible.** We use eco-friendly, biodegradable cleaning solutions and a fraction of the water that traditional methods require. Less water in means less wastewater out.
 
-Our [professional carpet cleaning service](/services/carpet-cleaning.html) is built around these principles. We also apply the same low moisture philosophy to our [upholstery cleaning](/services/upholstery-cleaning.html), because the same drying-time concerns apply to your furniture.
+Our [professional carpet cleaning service](/services/carpet-cleaning/) is built around these principles. We also apply the same low moisture philosophy to our [upholstery cleaning](/services/upholstery-cleaning/), because the same drying-time concerns apply to your furniture.
 
 ## Busting the Myths
 
@@ -104,4 +104,4 @@ Actually, a carpet that dries in an hour is better for allergy sufferers than on
 
 If you're a homeowner in Victoria or anywhere on Vancouver Island, we'd love to show you what professional low moisture carpet cleaning can do. No soggy carpets, no waiting around, no mould worries — just clean, fresh results you can enjoy the same day.
 
-**[Get a free quote today](/contact.html)** or give us a call at **(250) 710-5244**. We serve [Victoria and surrounding communities](/areas-we-serve/) and we're always happy to answer questions about the best approach for your home.
+**[Get a free quote today](/contact/)** or give us a call at **(250) 710-5244**. We serve [Victoria and surrounding communities](/areas-we-serve/) and we're always happy to answer questions about the best approach for your home.
