@@ -172,7 +172,7 @@
             <h2 class="heading-md" style="margin-bottom: var(--space-sm);">Send Us a Message</h2>
             <p class="lead" style="margin-bottom: var(--space-xl);">Fill out the form below and we&rsquo;ll get back to you as soon as possible with a free quote.</p>
 
-            <form id="contact-form" action="https://formspree.io/f/xaqderro" method="POST">
+            <form id="contact-form" action="https://admin.nodex.zone/sidecar/webhook/titan/contact" method="POST">
 
               <div class="form-row">
                 <div class="form-group">
@@ -237,6 +237,8 @@
 
               <!-- Honeypot -->
               <input type="text" name="_gotcha" class="form-hp" tabindex="-1" autocomplete="off">
+              <!-- Bot timing check — set via JS on page load -->
+              <input type="hidden" name="_loaded" value="">
 
               <button type="submit" class="btn btn-primary btn-lg" style="width: 100%;">Send Message</button>
 

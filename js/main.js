@@ -113,9 +113,13 @@
     });
   }
 
-  // --- Contact Form (Formspree) ---
+  // --- Contact Form ---
   const contactForm = document.getElementById('contact-form');
   if (contactForm) {
+    // Set page-load timestamp for bot timing detection
+    const loadedField = contactForm.querySelector('input[name="_loaded"]');
+    if (loadedField) loadedField.value = String(Date.now());
+
     contactForm.addEventListener('submit', async (e) => {
       e.preventDefault();
 
@@ -138,10 +142,13 @@
 
       try {
         const formData = new FormData(contactForm);
+        const jsonBody = {};
+        formData.forEach((value, key) => { jsonBody[key] = value; });
+
         const response = await fetch(contactForm.action, {
           method: 'POST',
-          body: formData,
-          headers: { 'Accept': 'application/json' }
+          body: JSON.stringify(jsonBody),
+          headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' }
         });
 
         if (response.ok) {
@@ -150,6 +157,8 @@
             successMsg.classList.add('success');
           }
           contactForm.reset();
+          // Reset timestamp for next potential submission
+          if (loadedField) loadedField.value = String(Date.now());
         } else {
           throw new Error('Form submission failed');
         }
